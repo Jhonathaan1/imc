@@ -1,7 +1,6 @@
 
  
-# Clone-Sistok
-
+# IMC
 ## Descrição
 
 O "Projeto IMC" é a página inicial de um Sistema de Gestão para Empresas em desenvolvimento, focado em Desenvolvimento Front End e voltado especificamente para o cálculo do Índice de Massa Corporal (IMC).
